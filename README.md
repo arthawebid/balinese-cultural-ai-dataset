@@ -17,6 +17,12 @@ and Creative & Cultural Tourism.
 - Educational systems
 - Advanced Artificial Intelligence coursework
 
+## License
+CC BY 4.0
+
+## Citation
+Please cite this dataset if used in academic research.
+
 ## Image Citation
 
 All images in this dataset are AI-generated illustrative images created
