@@ -17,13 +17,17 @@ and Creative & Cultural Tourism.
 - Educational systems
 - Advanced Artificial Intelligence coursework
 
-## License
-CC BY 4.0
+## Image Citation
 
-## Citation
-Please cite this dataset if used in academic research.
+All images in this dataset are AI-generated illustrative images created
+for educational and research purposes.
 
-## Image Samples
-All images in this dataset are illustrative and intended for educational
-and research purposes. Images are either AI-generated or free-to-use
-illustrations representing Balinese cultural elements.
+Image generation prompts are designed to represent Balinese cultural
+elements accurately but do not replace authentic ethnographic
+documentation.
+
+Generated using:
+- Text-to-Image Generative AI (Stable Diffusion / SDXL class models)
+- Prompt-based cultural description
+
+Usage is permitted under CC BY 4.0 for research and educational use.
