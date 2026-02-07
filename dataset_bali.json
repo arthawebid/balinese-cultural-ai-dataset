@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "domain": "Creative and Cultural Tourism",
+    "region": "Bali, Indonesia",
+    "language": ["id", "en"],
+    "version": "1.0"
+  },
+  "cultural_items": [
+    {
+      "id": "C01",
+      "category": "Dance",
+      "name": "Tari Barong",
+      "description": "Tari Barong adalah tarian sakral Bali yang melambangkan pertarungan antara kebaikan dan kejahatan.",
+      "media": {
+        "image": "samples/barong.jpg"
+      }
+    },
+    {
+      "id": "C02",
+      "category": "Dance",
+      "name": "Tari Kecak",
+      "description": "Tari Kecak adalah tarian kolosal yang ditampilkan dengan iringan suara 'cak' oleh puluhan penari pria.",
+      "media": {
+        "image": "samples/kecak.jpg"
+      }
+    }
+  ]
+}
