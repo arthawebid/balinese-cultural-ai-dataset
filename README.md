@@ -22,3 +22,8 @@ CC BY 4.0
 
 ## Citation
 Please cite this dataset if used in academic research.
+
+## Image Samples
+All images in this dataset are illustrative and intended for educational
+and research purposes. Images are either AI-generated or free-to-use
+illustrations representing Balinese cultural elements.
